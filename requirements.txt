@@ -1,0 +1,6 @@
+pandas
+dash
+ibapi
+jupyter
+kaleido
+dash_daq
